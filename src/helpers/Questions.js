@@ -23,4 +23,28 @@ export const Questions = [
     optionD: "Java",
     answer: "optionD",
   },
+  {
+    prompt: "Rolex is a company that specializes in what type of product?",
+    optionA: "Watches",
+    optionB: "Food",
+    optionC: "Cosmetics",
+    optionD: "Phone",
+    answer: "optionA",
+  },
+  {
+    prompt: "When did the website `Facebook` launch?",
+    optionA: "2005",
+    optionB: "2004",
+    optionC: "2003",
+    optionD: "2002",
+    answer: "optionB",
+  },
+  {
+    prompt: "Who played the character of harry potter in movie?",
+    optionA: "Leonardo Di Caprio",
+    optionB: "Daniel Red Cliff",
+    optionC: "Denzel Washington",
+    optionD: "Johnny Deep",
+    answer: "optionB",
+  },
 ];
